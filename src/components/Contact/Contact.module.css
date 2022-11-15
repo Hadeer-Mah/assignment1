@@ -1,0 +1,14 @@
+
+.contactBg h2 {font-size: 3rem;}
+.contactBg button {
+    background-color: #1abc9c;
+    padding: 10px 20px;
+}
+.contactBg input , .contactBg textarea{
+    border: none;
+    border-bottom: 1px solid #ced4da;
+}
+.contactBg input:focus , .contactBg textarea:focus {
+    border: none;
+    box-shadow: none;
+}

@@ -1,0 +1,10 @@
+.horizonLine span {
+    width: 100px;
+    height: 4px;
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: middle;
+    border-radius: 20px;
+
+
+}
